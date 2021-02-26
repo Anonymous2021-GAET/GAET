@@ -1,5 +1,5 @@
 # GAET
-Embedding generalizability evaluation
+Embedding generalizability evaluation (code is archived in GAET.rar)
 
 # Project Description
  this repostory is designed for proposing a new 
